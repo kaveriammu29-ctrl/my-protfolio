@@ -252,7 +252,7 @@ function App() {
           <div className="contact-item">
             <span>GitHub</span>
             <a
-              href="https://github.com/kaveri29-ctrl"
+              href="https://github.com/kaveriammu29-ctrl"
               target="_blank"
               rel="noreferrer"
             >
