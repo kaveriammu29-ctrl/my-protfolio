@@ -218,33 +218,33 @@ function App() {
         </div>
       </section>
 
-      {/* CERTIFICATIONS */}
-      <section id="certifications" className="section alternate">
-        <p className="section-label">MY LEARNING JOURNEY</p>
-        <h2 className="section-title">
-          Certifications & <span>Learning</span>
-        </h2>
+      
+{/* CERTIFICATIONS */}
+<section id="certifications" className="section alternate">
+  <p className="section-label">MY ACHIEVEMENTS</p>
+  <h2 className="section-title">
+    Certifications & <span>Learning</span>
+  </h2>
 
-        <div className="cert-grid">
-          <div className="cert-card">
-            <span>01</span>
-            <h3>IBM Certifications</h3>
-            <p>Professional learning and technical development.</p>
-          </div>
+  <p className="section-description">
+    Courses completed through IBM SkillsBuild.
+  </p>
 
-          <div className="cert-card">
-            <span>02</span>
-            <h3>HTML Web Development</h3>
-            <p>Learning website structure and development.</p>
-          </div>
+  <div className="cert-grid">
+    <div className="cert-card">
+      <span>01</span>
+      <h3>Getting Started with Artificial Intelligence</h3>
+      <p>IBM SkillsBuild</p>
+    </div>
 
-          <div className="cert-card">
-            <span>03</span>
-            <h3>Python Certification</h3>
-            <p>Building programming and problem-solving skills.</p>
-          </div>
-        </div>
-      </section>
+    <div className="cert-card">
+      <span>02</span>
+      <h3>Artificial Intelligence Fundamentals</h3>
+      <p>IBM SkillsBuild</p>
+    </div>
+  </div>
+</section>
+
 
       {/* CONTACT */}
       <section id="contact" className="section contact-section">
