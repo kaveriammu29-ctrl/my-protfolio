@@ -12,30 +12,47 @@ const skills = [
   { name: 'Power BI', level: 'Currently Learning' },
 ]
 
+
 const projects = [
   {
     number: '01',
-    title: 'Internal Project & Opportunity Marketplace',
+    title: 'Student Opportunity Portal',
     description:
-      'A platform designed to connect students with internal projects and opportunities. Built with React, Node.js, Express and MongoDB.',
-    tech: ['React', 'Node.js', 'Express', 'MongoDB'],
-    link: 'https://github.com/kaveri29-ctrl',
+      'A web-based portal connecting students with internships, projects, skill-development programs and career opportunities.',
+    tech: ['JavaScript'],
+    link: 'https://github.com/kaveriammu29-ctrl/student-opportunity-portal',
   },
   {
     number: '02',
-    title: 'Interview Application',
+    title: 'Student Expense Tracker',
     description:
-      'A React application to manage interview applications, track statuses, schedule interviews and organize application details.',
-    tech: ['React', 'JavaScript', 'CSS'],
-    link: 'https://github.com/kaveri29-ctrl',
+      'A simple JavaScript application to manage daily expenses and monitor spending through a user-friendly interface.',
+    tech: ['JavaScript'],
+    link: 'https://github.com/kaveriammu29-ctrl/student-expense-tracker',
   },
   {
     number: '03',
-    title: 'Chroma Grid Cards',
+    title: 'QuickCart E-Commerce',
     description:
-      'An interactive React card gallery featuring colorful layouts, modern styling and responsive design.',
-    tech: ['React', 'CSS', 'JavaScript'],
-    link: 'https://github.com/kaveri29-ctrl',
+      'A responsive e-commerce website featuring product browsing and a user-friendly shopping interface.',
+    tech: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+    link: 'https://github.com/kaveriammu29-ctrl/quickcart-ecommerce',
+  },
+  {
+    number: '04',
+    title: 'Explore Karnataka',
+    description:
+      "A tourism website showcasing Karnataka's destinations, cultural heritage, historical monuments and attractions.",
+    tech: ['Web Development'],
+    link: 'https://github.com/kaveriammu29-ctrl/Explore-karnataka',
+  },
+  {
+    number: '05',
+    title: 'React Counter',
+    description:
+      'A simple interactive counter application built using React.js, demonstrating state management and event handling.',
+    tech: ['React.js'],
+    link: 'https://github.com/kaveriammu29-ctrl/react-counter',
   },
 ]
 
